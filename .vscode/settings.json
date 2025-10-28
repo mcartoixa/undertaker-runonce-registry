@@ -1,0 +1,14 @@
+{
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "files.exclude": {
+    "**/.git": true
+  },
+  "files.trimTrailingWhitespace": true,
+  "files.watcherExclude": {
+    "**/.git/*/**": true,
+    "**/.tmp/*/**": true,
+    "**/node_modules/*/**": true
+  },
+}
